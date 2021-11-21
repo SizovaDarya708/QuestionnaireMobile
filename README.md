@@ -13,3 +13,8 @@ Back должен включать следующую функционально
 1.	Авторизация и регистрация
 2.	Возможность перехвата deeplink-опроса для открытия его приложением
 3.	Прохождение опроса
+
+
+Ссылки: 
+JIRA:
+https://designpractice.atlassian.net/jira/software/projects/PP/boards
